@@ -7,6 +7,10 @@
 ## 👩‍🎓 I'm studying Information Systems at PUC Campinas!
 
 
+## 🔭 I’m currently working as a Quality Assurance intern 
+#### I create automated tests with cypress!
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="40" height="40"/>
+
 ## 🌱 I’m currently learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
 
